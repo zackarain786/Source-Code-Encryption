@@ -17,10 +17,11 @@ git clone https://github.com/zackarain786/Source-Code-Encryption</br>
 <strong>Run</strong></br>
 <hr>
 cd Source-Code-Encryption</br>
+git pull </br>
 python Enc.py</br>
 <hr>
 <strong>Single Line Commands</strong>
 <hr>
 </br>
 pkg update;pkg upgrade;pkg install git;pkg install python;pkg install python2;python3 -m pip install --upgrade pip;pip install requests;pip install mechanize;pip install bs4;rm -rf Source-Code-Encryption
-git clone https://github.com/zackarain786/Source-Code-Encryption;termux-storage-setup;cd Source-Code-Encryption;python Enc.py
+git clone https://github.com/zackarain786/Source-Code-Encryption;termux-storage-setup;cd Source-Code-Encryption;git pull;python Enc.py
